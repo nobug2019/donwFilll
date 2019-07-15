@@ -32,7 +32,7 @@
            </array><key>metadata</key>
            <dict>
                <key>io.dcloud.W2Awww.tran365.com</key>
-               <string>com.ccssoft.mopclient.chongqing</string>
+               <string>io.dcloud.W2Awww.tran365.com</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
