@@ -31,7 +31,7 @@
                </dict>
            </array><key>metadata</key>
            <dict>
-               <key>io.dcloud.W2Awww.tran365.com</key>
+               <key>bundle-identifier</key>
                <string>io.dcloud.W2Awww.tran365.com</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
